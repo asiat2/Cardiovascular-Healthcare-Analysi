@@ -1,5 +1,5 @@
 ## Cardiovascular-Healthcare-Analysis
-# "Cardiovascular patients" is a general term that refers to individuals who have been diagnosed with or are receiving medical treatment for various cardiovascular conditions or diseases. These conditions primarily involve the heart and blood vessels. Cardiovascular patients can include those with a wide range of issues, such as:
+"Cardiovascular patients" is a general term that refers to individuals who have been diagnosed with or are receiving medical treatment for various cardiovascular conditions or diseases. These conditions primarily involve the heart and blood vessels. Cardiovascular patients can include those with a wide range of issues, such as:
 Hypertension (High Blood Pressure): Patients with high blood pressure, which can strain the heart and blood vessels over time,
 Heart Disease: Individuals with various heart diseases, including coronary artery disease, arrhythmias, heart failure, and more
 Stroke Patients: Individuals who have suffered from a stroke, which is often related to issues with blood flow in the brain.
